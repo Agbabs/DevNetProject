@@ -17,4 +17,8 @@ Expected Output :
 60°C is 140 in Fahrenheit
 45°F is 7 in Celsius
 
-6. Write a Python program to create a class representing a Circle. Include methods to calculate its area and perimeter.
+celsius = 9.4
+fahrenheit = (-3.6)
+
+6. Write a Python program to create a class representing a Circle. Include methods to calculate its area and perimeter.'
+
